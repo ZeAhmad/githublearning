@@ -2,3 +2,4 @@ hello world
 first change
 second change in file also
 changes done on github live
+change done to see it in smart git

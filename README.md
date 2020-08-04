@@ -9,5 +9,5 @@
 this is a list
   - one
   - two
-   1 two point one
-   2 two point two
+   1. two point one
+   2. two point two
